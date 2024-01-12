@@ -1,0 +1,11 @@
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.exe
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\appsettings.json
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.dll
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.deps.json
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.runtimeconfig.json
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\WebApplication1.pdb
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\mphasis\phase-4\day6\Assignment\WebApplication1\WebApplication1\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
